@@ -1,0 +1,100 @@
+[
+    {
+      "precio": 35000,
+      "id": 1,
+      "title": "desayuno combo ",
+      "descuento": "20%",
+      "thumbnailUrl": "img/desayuno2.jpg",
+      "aprovechalo": "$col"
+      
+    },
+    {
+      "precio": 45000,
+      "id": 2,
+      "title": "desayuno combo ",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana2.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 55000,
+      "id": 3,
+      "title": "desayuno combo #3",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana3.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 65000,
+      "id": 4,
+      "title": "desayuno combo #4",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana9.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 30000,
+      "id": 5,
+      "title": "desayuno combo #5",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana5.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 70000,
+      "id": 6,
+      "title": "desayuno combo #6",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana6.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 100000,
+      "id": 7,
+      "title": "desayuno combo #7",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana10.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 150000,
+      "id": 8,
+      "title": "desayuno combo #8",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana11.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 90000,
+      "id": 9,
+      "title": "desayuno combo #9",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana12.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 100000,
+      "id": 10,
+      "title": "desayuno combo #10",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana13.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 85000,
+      "id": 11,
+      "title": "desayuno combo #11",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana14.jpg",
+      "aprovechalo": "$col"
+    },
+    {
+      "precio": 150000,
+      "id": 12,
+      "title": "desayuno combo #12",
+      "descuento": "20%",
+      "thumbnailUrl": "img/paztrana15.jpg",
+      "aprovechalo": "$col"
+    }
+
+  ]

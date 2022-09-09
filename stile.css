@@ -1,0 +1,382 @@
+
+
+
+.container span{
+  
+    font-size: 50pt;
+    font-weight: bold;
+    position: relative;
+    font-family: "fredoka One";
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+
+}
+.container span::before{
+    content: var(--l);
+    position: absolute;
+    transform: scale(1.1);
+    filter: blur(15px);
+
+
+
+}
+
+
+
+
+.container span::after{
+    content: var(--l);
+    position: absolute;
+    top: 80%;
+    left: 0;
+    filter: blur(30px);
+    transform: rotateX(50deg);
+
+
+
+
+}
+
+.container span:hover{
+    filter: contrast(250%);
+    
+
+}
+
+.container span:nth-child(1){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(2){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(3){
+    color:rgb(7, 196, 196);
+}
+.container span:nth-child(4){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(5){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(6){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(7){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(8){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(9){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(10){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(11){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(12){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(13){
+    color: rgb(7, 196, 196);
+}
+.container span:nth-child(14){
+    color: rgb(7, 196, 196);
+}
+
+.container span{
+    align-items: center;
+}
+
+
+
+.container2 h3::before{
+    content: var(--l);
+    position: absolute;
+    transform: scale(1.1);
+    filter: blur(15px);
+
+
+
+}
+
+
+
+
+.container2 h3::after{
+    content: var(--l);
+    position: absolute;
+    top: 80%;
+    left: 0;
+    filter: blur(30px);
+    transform: rotateX(50deg);
+
+
+
+
+}
+
+.container2 h3:hover{
+    filter: contrast(250%);
+    
+
+}
+
+.container h3:nth-child(1){
+    color: rgb(9, 187, 187);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container2 span{
+  
+    font-size: 50pt;
+    font-weight: bold;
+    position: relative;
+    font-family: "fredoka One";
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+
+}
+.container2 span::before{
+    content: var(--l);
+    position: absolute;
+    transform: scale(1.1);
+    filter: blur(15px);
+
+
+
+}
+
+
+
+
+.container2 span::after{
+    content: var(--l);
+    position: absolute;
+    top: 80%;
+    left: 0;
+    filter: blur(30px);
+    transform: rotateX(50deg);
+
+
+
+
+}
+
+.container2 span:hover{
+    filter: contrast(250%);
+    
+
+}
+
+.container2 span:nth-child(1){
+    color: rgb(13, 226, 226);
+}
+.container2 span:nth-child(2){
+    color: rgb(7, 196, 196);
+}
+.container2 span:nth-child(3){
+    color:rgb(6, 116, 116);
+}
+.container2 span:nth-child(4){
+    color: rgb(217, 243, 243);
+}
+.container2 span:nth-child(5){
+    color: rgb(90, 230, 230);
+}
+.container2 span:nth-child(6){
+    color: rgb(6, 102, 102);
+}
+.container2 span:nth-child(7){
+    color:rgb(15, 216, 216);
+}
+.container2 span:nth-child(8){
+    color: rgb(17, 201, 201);
+}
+.container2 span:nth-child(9){
+    color: rgb(22, 236, 236);
+}
+
+
+
+.container2 span{
+    align-items: center;
+}
+
+
+
+
+
+
+
+.container3 span{
+  
+    font-size: 50pt;
+    font-weight: bold;
+    position: relative;
+    font-family: "fredoka One";
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+
+}
+.container3 span::before{
+    content: var(--l);
+    position: absolute;
+    transform: scale(1.1);
+    filter: blur(15px);
+
+
+
+}
+
+
+
+
+.container3 span::after{
+    content: var(--l);
+    position: absolute;
+    top: 80%;
+    left: 0;
+    filter: blur(30px);
+    transform: rotateX(50deg);
+
+
+
+
+}
+
+.container3 span:hover{
+    filter: contrast(250%);
+    
+
+}
+
+.container3 span:nth-child(1){
+    color: rgb(248, 250, 246);
+}
+.container3 span:nth-child(2){
+    color: rgb(243, 247, 239);
+}
+.container3 span:nth-child(3){
+    color:rgb(240, 248, 248);
+}
+.container3 span:nth-child(4){
+    color: rgb(253, 249, 246);
+}
+.container3 span:nth-child(5){
+    color: rgb(246, 250, 245);
+}
+.container3 span:nth-child(6){
+    color: rgb(252, 253, 253);
+}
+.container3 span:nth-child(7){
+    color:rgb(249, 253, 253);
+}
+.container3 span:nth-child(8){
+    color: rgb(239, 245, 245);
+}
+.container3 span:nth-child(9){
+    color: rgb(195, 226, 226);
+}
+
+
+
+
+
+
+
+.table tr:nth-child(1){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(2){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(3){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(4){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(5){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(6){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(7){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(8){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(9){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(10){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(11){
+    color: rgb(246, 250, 245);
+
+
+}
+
+.table tr:nth-child(12){
+    color: rgb(246, 250, 245);
+
+
+}
